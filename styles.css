@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 2rem;
+}
+
+.caja {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    margin-bottom: 1rem;
+    background-color: #fff;
+}
+
+.texto {
+    color: #333;
+}
+
+.especial {
+    font-weight: bold;
+    color: darkred;
+}
+
+ul {
+    list-style-type: square;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
