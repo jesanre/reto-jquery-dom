@@ -15,7 +15,7 @@ Los párrafos con clase especial cambian su texto por:
 
 
 
-2. Estilos de los div
+2. Estilos de los <div>
 
 Todos los div tendrán un borde verde aplicado automáticamente.
 
@@ -39,7 +39,7 @@ Interacciones dinámicas
 
 4. Eliminar un elemento de la lista
 
-Al hacer clic en el botón "Eliminar Elemento 3", se borra el tercer elemento de la lista (li class="borrar">Elemento 3</li).
+Al hacer clic en el botón "Eliminar Elemento 3", se borra el tercer elemento de la lista (<li class="borrar">Elemento 3</li>).
 
 
 
